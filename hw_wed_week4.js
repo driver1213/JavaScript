@@ -20,7 +20,7 @@ containerDiv.append(textDiv);
 
 var commentsDiv = document.createElement("div");
 commentsDiv.setAttribute("class", "comments");
-commentsDiv.innerHTML = "12 Comments 124 likes";
+commentsDiv.innerHTML = "&nbsp 12 Comments &nbsp &nbsp 124 likes";
 containerDiv.append(commentsDiv); 
 
 var textDiv = document.createElement("div");
@@ -31,7 +31,7 @@ containerDiv.append(textDiv);
 
 var commentsDiv = document.createElement("div");
 commentsDiv.setAttribute("class", "comments");
-commentsDiv.innerHTML = "15 Comments 45 likes";
+commentsDiv.innerHTML = "&nbsp 15 Comments &nbsp &nbsp 45 likes";
 containerDiv.append(commentsDiv);
 
 
