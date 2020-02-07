@@ -84,9 +84,57 @@
 
 
 //#9 Sort an array 3
-var arr = [
-    [1, 3, 4],
-    [2, 4, 6, 8],
-    [3, 6] ];
+// var arr = [
+//     [1, 3, 4],
+//     [2, 4, 6, 8],
+//     [3, 6] ];
 
-var newArr = 
+    
+// for (var i = 0; i < arr.length; i++) {
+//     total += array[i]
+// }
+// console.log(total)
+
+
+//#10 3 Times
+// function call3Times(fun) { 
+//     fun(); 
+//     fun(); 
+//     fun(); 
+// }
+// function hiii() {console.log("Hello, world!")}
+
+// call3Times(hiii)
+
+
+
+//#11 n times
+
+// function hiii() {console.log("Hello, world!")}
+
+// function callNTimes(j, phrase){
+//     for (var i=0; i<j;i++)
+//     {
+//         phrase();
+//     }
+// }
+
+// callNTimes(5, hiii)
+
+
+
+
+//#12 Sum an array
+
+// var nums = ([1, 2, 5])
+
+//     var sum = nums.reduce( function(total, amount){
+//         return total + amount
+//     });
+
+//     console.log(sum)
+
+
+
+//#13 Acronym
+
